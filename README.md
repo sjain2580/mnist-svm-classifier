@@ -61,7 +61,7 @@ pip install -r requirements.txt
 4. Run the Script:
 
 ```bash
-python predictive_maintenance.py
+python mnist_svm_classifier.py
 ```
 
 ## Contributors
