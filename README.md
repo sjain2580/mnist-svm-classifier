@@ -34,7 +34,7 @@ The training process involves a Pipeline that first scales the data and then tra
 1. Clone the repository:
 
 ```bash
-git clone <>
+git clone <https://github.com/sjain2580/mnist-svm-classifier>
 cd <repository_name>
 ```
 
